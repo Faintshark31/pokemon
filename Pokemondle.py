@@ -142,7 +142,8 @@ while pokemon_misterioso.igualdades != True:
             print('Perdiste😢😢')
             break
     else:
-        print('Ganaste💦💦')
+        print('Ganaste🎉🎉🎉')
+
 
 
 
